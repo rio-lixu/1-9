@@ -72,7 +72,7 @@ h5{
 		float:none;
 		margin:0 auto;
 		margin-bottom: 	20px; 	
-		
+		width: 100%;
 	}
 
 	.box-content:last-child{
@@ -85,5 +85,5 @@ h5{
 	main{
 
 		margin: 50px auto;	
-	}
+		width: 90%;
 }
